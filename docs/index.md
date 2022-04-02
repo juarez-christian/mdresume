@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Christian Juarez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Christian Juarez
+Business Intelligence Developer.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/christian-juarez-61b94b185/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,74 +16,61 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
+Bachelor’s Degree in Computer Information Technology
 
-- 4.0 Major GPA
+__Universidad Autonoma del Estado de Hidalgo__, Pachuca, HGO-MX
+Bachelor’s Degree in Economics
 
 
 ## Related Experience
+### Business Intelligence Developer
 
-### Internships
+`February 2021 - Current`
+__Wipro technologies__, Consultant
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- PowerBI Lead. PowerBI Premium Capacity Administrator. PowerBI Gateway Administrador.
+- Designed PowerBI training to increase the application adoption in Loreal Americas Zone. 
+- Used Databricks and Azure Synapse to build ETL and Pipelines for data visualization in PowerBI. 
+- Tableau to PowerBI Dashboards migration. SQL to DAX query conversion.
+- SSRS to PowerBI Dashboards migration and Paginated Reports and Power BI integration.
 
 
-## Service and Work History
+`March 2019 - February 2021`
+__TATA Consultancy Services__, Consultant
+ 
+- Used Apache Hive and Apache Oozie to build jobs for data visualization in Tableau. 
+- Spotfire to Tableau Dashboards migration. SQL to HQL query conversion. 
+- Established standardized HQL calls and connections for Tableau dashboards. 
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`November 2018 - March 2019`
+__TechnoSocks Group__, Consultant
+
+- Used GCP and Trifacta to parse and format web data for data visualization in PowerBI.
+- Excel reports to PowerBI Migration.
+
+`July 2017 - November 2018`
+__Coacero Group__, Consultant
+
+- Design and maintenance of PowerBI dashboards.
+- Used PowerAutomate to build pipleines from Azure SQL server to slack bot.
+
+`January 2017 - July 2017`
+__AMV Design Group__, Consultant
+
+- Design and maintenance of Tableau dashboards. 
+- Web Analytics with Google Analytics to improve the efficiency of ads campaigns. 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
+## Others
 
+English, fluent
+Spanish, native 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022 -->
+
 
 
